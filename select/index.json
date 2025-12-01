@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "【歌ってみた】正しくなれない covered by 燈",
+  "base_artist": "MyGO!!!!!",
+  "createdAt": "2025-12-01T05:02:30.249260Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "正しくなれない",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_正しくなれない_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "正しくなれない",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/02_正しくなれない_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "正しくなれない - From THE FIRST TAKE",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/03_正しくなれない_-_From_THE_FIRST_TAKE_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "正しくなれない",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/04_正しくなれない_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "正しくなれない",
+      "artist": "ずっと真夜中でいいのに",
+      "has_synced": true,
+      "path": "select/05_正しくなれない_ずっと真夜中でいいのに.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "正しくなれない - From THE FIRST TAKE",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/06_正しくなれない_-_From_THE_FIRST_TAKE_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "正しくなれない - Can't Be Right",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/07_正しくなれない_-_Can't_Be_Right_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "正しくなれない - Can't Be Right",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/08_正しくなれない_-_Can't_Be_Right_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "正しくなれない - Can't Be Right",
+      "artist": "ずっと真夜中でいいのに。 - ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/09_正しくなれない_-_Can't_Be_Right_ずっと真夜中でいいのに。_-_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "正しくなれない = Can't Be Right",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/10_正しくなれない_=_Can't_Be_Right_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "正しくなれない",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/11_正しくなれない_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "正しくなれない (From THE FIRST TAKE)",
+      "artist": "ずっと真夜中でいいのに。 (永远是深夜有多好｡)",
+      "has_synced": true,
+      "path": "select/12_正しくなれない_(From_THE_FIRST_TAKE)_ずっと真夜中でいいのに。_(永远是深夜有多好。).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "正しくなれない (非正解)",
+      "artist": "ずっと真夜中でいいのに。 (永远是深夜有多好｡)",
+      "has_synced": true,
+      "path": "select/13_正しくなれない_(非正解)_ずっと真夜中でいいのに。_(永远是深夜有多好。).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ずっと真夜中でいいのに。『正しくなれない』MV（ZUTOMAYO – Can’t Be Right）",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/14_ずっと真夜中でいいのに。『正しくなれない』MV(ZUTOMAYO_–_Can’t_Be_Right)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "正しくなれない",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/15_正しくなれない_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "正しくなれない",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_正しくなれない_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "正しくなれない",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_02_正しくなれない_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "正しくなれない",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_03_正しくなれない_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "正しくなれない",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_04_正しくなれない_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "正しくなれない間違えられない",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_05_正しくなれない間違えられない_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
